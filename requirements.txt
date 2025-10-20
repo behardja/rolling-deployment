@@ -1,0 +1,8 @@
+numpy
+protobuf==3.20.3
+fastapi==0.115.8
+uvicorn==0.27.1
+onnxruntime==1.21.0
+pydantic
+fsspec
+gcsfs
